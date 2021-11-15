@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hackedtobits
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning PowerShell and Ruby
+- 💞️ I’m NOT looking to collaborate right now
+- 📫 You can find me online
